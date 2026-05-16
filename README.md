@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Hikmat, and I am a Python Software Developer specializing in high-performance applications, automation, and AI!
+My name is Hikmat, and I am a Technical Startup Founder specializing in high-performance applications, automation, and AI!
 
 - 🧑🏻‍💻 I’m currently working on multiple projects, and experimenting with new tools
 - 🔨 I recently built a tennis ai project to predict the winner in ATP matches with 3 different models and a web UI, check it out [here](https://github.com/hikmatazimzade/tennis-ai)
